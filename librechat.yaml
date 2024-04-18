@@ -8,5 +8,5 @@ endpoints:
       apiKey: 'user_provided'
       baseURL: 'https://api.naga.ac/v1'
       models:
-        default: ['gpt-4-turbo', 'gpt-4-turbo-preview', 'gpt-4-vision-preview', 'gpt-4', 'mixtral-8x22b', 'command-r-plus', 'command-r', 'claude-3-opus', 'claude-3-sonnet', 'claude-3-haiku', 'claude-2.1', 'claude-instant', 'mistral-large', 'mistral-next', 'mistral-small', 'gpt-3.5-turbo', 'gemini-pro', 'gemini-pro-vision', 'llama-2-70b-chat', 'llama-2-13b-chat', 'llama-2-7b-chat', 'mistral-7b', 'mixtral-8x7b']
+        default: ['gpt-4-turbo', 'gpt-4-turbo-preview', 'gpt-4-vision-preview', 'gpt-4', 'llama-3-70b-chat', 'llama-3-8b-chat', 'mixtral-8x22b', 'command-r-plus', 'command-r', 'claude-3-opus', 'claude-3-sonnet', 'claude-3-haiku', 'claude-2.1', 'claude-instant', 'mistral-large', 'mistral-next', 'mistral-small', 'gpt-3.5-turbo', 'gemini-pro', 'gemini-pro-vision', 'llama-2-70b-chat', 'llama-2-13b-chat', 'llama-2-7b-chat', 'mistral-7b', 'mixtral-8x7b']
         fetch: false
